@@ -5,3 +5,10 @@ This repository contains resources and tools related to memory forensics in the 
 ## Contents
 
 [Memory Forenics Lab 01 - student version](df_memory_lab_01/df_memory_lab_01.md)
+
+~QUIZ
+Q: I did all the lab exercises?
+A) Yes
+B) No
+
+ANSWER: A
